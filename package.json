@@ -1,0 +1,11 @@
+{
+  "name": "food_blog",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[B\u001b[D\u001b[D\u001b[C",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bhavna nagar",
+  "license": "ISC"
+}
